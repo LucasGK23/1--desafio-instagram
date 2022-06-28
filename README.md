@@ -1,6 +1,6 @@
 # Bem-vindo! Tudo bem? Esse é um desafio da plataforma DIO. :blush:
 
-Esse é o repositório do primeiro desafio de projeto que realizei na plataforma DIO, do bootcamp Santander. É a interface de login do Instagram, ensinado passo-a-passo pela professora, mas com algumas alterações adicionais feita por mim, para meu gosto, em relação ao código original da professora.
+Esse é o repositório do primeiro desafio de projeto que realizei do bootcamp Santander, disponibilizado pela plataforma DIO. É a interface de login do Instagram, com algumas alterações adicionais feita por mim, para meu gosto, em relação ao código original da professora.
 
 ### Alterações:
 
